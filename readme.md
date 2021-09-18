@@ -5,7 +5,7 @@
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrayrod1016&layout=compact&theme=react" /></a> 
   <hr>
   <h2>Get to know me:</h2>
-  <h3>I’m an detail-oriented Software Engineer, based in New York City, with a passion for front-end design and a background in Hospitality Management and Anthropology. </h3>
+  <h3>I'm a Full-Stack Software Engineer, based in New York City, with a passion for front-end design and a background in Hospitality Management and Anthropology. </h3>
   <hr>
   <div>
     <h3>Reach out:</h3>
